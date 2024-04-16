@@ -4,89 +4,89 @@
         "Email": "olivia.taylor@email.com",
         "Phone": "+1 432 109 8765",
         "Address": "876 Cedar Street, Riverdale, USA",
-        "Zip Code": "34567",
-        "Account Number": "5678901234",
-        "Account Type": "Checking"
+        "ZipCode": "34567",
+        "AccountNumber": "5678901234",
+        "AccountType": "Checking"
     },
     {
         "Name": "Ethan Martinez",
         "Email": "ethan.martinez@email.com",
         "Phone": "+1 321 098 7654",
         "Address": "543 Walnut Avenue, Hillside, USA",
-        "Zip Code": "23456",
-        "Account Number": "6789012345",
-        "Account Type": "Savings"
+        "ZipCode": "23456",
+        "AccountNumber": "6789012345",
+        "AccountType": "Savings"
     },
     {
         "Name": "Ava Anderson",
         "Email": "ava.anderson@email.com",
         "Phone": "+1 210 987 6543",
         "Address": "210 Pine Street, Forestville, USA",
-        "Zip Code": "12345",
-        "Account Number": "7890123456",
-        "Account Type": "Checking"
+        "ZipCode": "12345",
+        "AccountNumber": "7890123456",
+        "AccountType": "Checking"
     },
     {
         "Name": "Noah Thomas",
         "Email": "noah.thomas@email.com",
         "Phone": "+1 098 765 4321",
         "Address": "789 Oak Drive, Hilltop, USA",
-        "Zip Code": "01234",
-        "Account Number": "8901234567",
-        "Account Type": "Savings"
+        "ZipCode": "01234",
+        "AccountNumber": "8901234567",
+        "AccountType": "Savings"
     },
     {
         "Name": "Mia Wilson",
         "Email": "mia.wilson@email.com",
         "Phone": "+1 987 654 3210",
         "Address": "654 Pine Road, Meadowbrook, USA",
-        "Zip Code": "90123",
-        "Account Number": "9012345678",
-        "Account Type": "Checking"
+        "ZipCode": "90123",
+        "AccountNumber": "9012345678",
+        "AccountType": "Checking"
     },
     {
         "Name": "Liam White",
         "Email": "liam.white@email.com",
         "Phone": "+1 876 543 2109",
         "Address": "321 Elm Avenue, Springvale, USA",
-        "Zip Code": "89012",
-        "Account Number": "0123456789",
-        "Account Type": "Checking"
+        "ZipCode": "89012",
+        "AccountNumber": "0123456789",
+        "AccountType": "Checking"
     },
     {
         "Name": "Charlotte Brown",
         "Email": "charlotte.brown@email.com",
         "Phone": "+1 765 432 1098",
         "Address": "987 Maple Street, Riverbank, USA",
-        "Zip Code": "78901",
-        "Account Number": "9876543210",
-        "Account Type": "Savings"
+        "ZipCode": "78901",
+        "AccountNumber": "9876543210",
+        "AccountType": "Savings"
     },
     {
         "Name": "James Johnson",
         "Email": "james.johnson@email.com",
         "Phone": "+1 654 321 0987",
         "Address": "456 Birch Lane, Hillcrest, USA",
-        "Zip Code": "67890",
-        "Account Number": "8765432109",
-        "Account Type": "Checking"
+        "ZipCode": "67890",
+        "AccountNumber": "8765432109",
+        "AccountType": "Checking"
     }, {
         "Name": "Isabella Garcia",
         "Email": "isabella.garcia@email.com",
         "Phone": "+1 543 210 9876",
         "Address": "789 Cedar Lane, Lakeside, USA",
-        "Zip Code": "56789",
-        "Account Number": "7654321098",
-        "Account Type": "Checking"
+        "ZipCode": "56789",
+        "AccountNumber": "7654321098",
+        "AccountType": "Checking"
     },
     {
         "Name": "Alexander Thompson",
         "Email": "alexander.thompson@email.com",
         "Phone": "+1 432 109 8765",
         "Address": "123 Oak Drive, Hilltop, USA",
-        "Zip Code": "45678",
-        "Account Number": "6543210987",
-        "Account Type": "Savings"
+        "ZipCode": "45678",
+        "AccountNumber": "6543210987",
+        "AccountType": "Savings"
     }
  
 ]

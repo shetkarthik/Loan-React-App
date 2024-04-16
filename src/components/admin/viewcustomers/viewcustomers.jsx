@@ -18,19 +18,20 @@ const ViewCustomers = ()=>{
                         <th>ZipCode</th>
                         <th>AccountNumber</th>
                         <th>AccountType</th>
+                        <th>Authorize</th>
                     </tr>
                 </thead>
                 <tbody>
                     {customerdata.map((customer) => (
-                        <tr key={customer['Zip Code']}>
+                        <tr key={customer.ZipCode}>
                             <td>{customer.Name}</td>
                             <td>{customer.Email}</td>
                             <td>{customer.Phone}</td>
                             <td>{customer.Address}</td>
-                            <td>{customer['Zip Code']}</td>
-                            <td>{customer['Account Number']}</td>
-                            <td>{customer['Account Type']}</td>
-                            
+                            <td>{customer.ZipCode}</td>
+                            <td>{customer.AccountNumber}</td>
+                            <td>{customer.AccountType}</td>
+                            <td><Link to={'/authorize-user'}>Authorize</Link></td>
 
                         </tr>
                     ))}
@@ -38,7 +39,7 @@ const ViewCustomers = ()=>{
                 </tbody>
                 <tfoot>
                     <tr>
-                        <td colSpan="7">
+                        <td colSpan="8">
                             <nav aria-label="Page navigation example">
                                 <ul className="pagination justify-content-center">
                                     <li className="page-item disabled">
