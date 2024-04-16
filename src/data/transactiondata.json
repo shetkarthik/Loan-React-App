@@ -1,0 +1,62 @@
+[
+    {
+        "TransactionID": "TRX123456789",
+        "CustomerAccountNumber": "5678901234",
+        "BeneficiaryAccountNumber": "9012345678",
+        "Amount": 1000
+    },
+    {
+        "TransactionID": "TRX234567890",
+        "CustomerAccountNumber": "7890123456",
+        "BeneficiaryAccountNumber": "0123456789",
+        "Amount": 750
+    },
+    {
+        "TransactionID": "TRX345678901",
+        "CustomerAccountNumber": "8765432109",
+        "BeneficiaryAccountNumber": "7654321098",
+        "Amount": 600
+    },
+    {
+        "TransactionID": "TRX456789012",
+        "CustomerAccountNumber": "8901234567",
+        "BeneficiaryAccountNumber": "6789012345",
+        "Amount": 400
+    },
+    {
+        "TransactionID": "TRX567890123",
+        "CustomerAccountNumber": "9012345678",
+        "BeneficiaryAccountNumber": "3456789012",
+        "Amount": 300
+    },
+    {
+        "TransactionID": "TRX678901234",
+        "CustomerAccountNumber": "3456789012",
+        "BeneficiaryAccountNumber": "5432109876",
+        "Amount": 550
+    },
+    {
+        "TransactionID": "TRX789012345",
+        "CustomerAccountNumber": "6543210987",
+        "BeneficiaryAccountNumber": "9876543210",
+        "Amount": 800
+    },
+    {
+        "TransactionID": "TRX890123456",
+        "CustomerAccountNumber": "5432109876",
+        "BeneficiaryAccountNumber": "4567890123",
+        "Amount": 900
+    },
+    {
+        "TransactionID": "TRX901234567",
+        "CustomerAccountNumber": "4321098765",
+        "BeneficiaryAccountNumber": "2345678901",
+        "Amount": 350
+    },
+    {
+        "TransactionID": "TRX012345678",
+        "CustomerAccountNumber": "2109876543",
+        "BeneficiaryAccountNumber": "3210987654",
+        "Amount": 600
+    }
+]
