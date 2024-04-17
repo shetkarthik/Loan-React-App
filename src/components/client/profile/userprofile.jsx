@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from '../navbar/navbar';
-
+import { Link } from 'react-router-dom';
 
 
 const UserProfile = () => {
@@ -50,6 +50,26 @@ const UserProfile = () => {
                                 <tr>
                                     <td>Balance:</td>
                                     <td>$10,000</td>
+                                </tr>
+                                <tr>
+                                    <td>Register:</td>
+                                    <td><Link to={'/register'}>Register</Link></td>
+                                </tr>
+                                <tr>
+                                    <td>Login:</td>
+                                    <td><Link to={'/login'}>Log-In</Link></td>
+                                </tr>
+                                <tr>
+                                    <td>Reset your password:</td>
+                                    <td><Link to={'/reset-password'}>Reset Password</Link></td>
+                                </tr>
+                                <tr>
+                                    <td>Admin Dashboard:</td>
+                                    <td><Link to={'/admin-dashboard'}>Admin Dashboard</Link></td>
+                                </tr>
+                                <tr>
+                                    <td>User Dashboard:</td>
+                                    <td><Link to={'/'}>User Dashboard</Link></td>
                                 </tr>
                             </tbody>
                         </table>
